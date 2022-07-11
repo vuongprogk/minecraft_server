@@ -1,0 +1,139 @@
+[11:26:30] [ServerMain/INFO]: Building unoptimized datafixer
+[11:26:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:26:32] [ServerMain/INFO]: Loaded 7 recipes
+[11:26:32] [ServerMain/INFO]: Loaded 1179 advancements
+[11:26:33] [Server thread/INFO]: Starting minecraft server version 1.19
+[11:26:33] [Server thread/INFO]: Loading properties
+[11:26:33] [Server thread/INFO]: Default game type: SURVIVAL
+[11:26:33] [Server thread/INFO]: Generating keypair
+[11:26:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:26:33] [Server thread/INFO]: Using default channel type
+[11:26:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:26:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:26:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:26:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:26:33] [Server thread/INFO]: Preparing level "world"
+[11:26:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:26:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:26:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:26:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:26:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:26:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:26:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:26:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:26:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:26:39] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:26:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:26:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:26:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:26:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:26:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:26:42] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[11:26:43] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[11:26:43] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[11:26:44] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[11:26:44] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[11:26:45] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[11:26:45] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[11:26:46] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[11:26:46] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[11:26:47] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[11:26:47] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[11:26:48] [Worker-Main-1/INFO]: Preparing spawn area: 13%
+[11:26:48] [Worker-Main-5/INFO]: Preparing spawn area: 14%
+[11:26:49] [Worker-Main-4/INFO]: Preparing spawn area: 14%
+[11:26:49] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[11:26:50] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[11:26:50] [Worker-Main-5/INFO]: Preparing spawn area: 17%
+[11:26:51] [Worker-Main-5/INFO]: Preparing spawn area: 20%
+[11:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[11:26:52] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[11:26:52] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[11:26:53] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[11:26:53] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[11:26:54] [Worker-Main-3/INFO]: Preparing spawn area: 26%
+[11:26:54] [Worker-Main-3/INFO]: Preparing spawn area: 28%
+[11:26:55] [Worker-Main-1/INFO]: Preparing spawn area: 33%
+[11:26:55] [Worker-Main-2/INFO]: Preparing spawn area: 34%
+[11:26:56] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[11:26:56] [Worker-Main-4/INFO]: Preparing spawn area: 44%
+[11:26:57] [Worker-Main-5/INFO]: Preparing spawn area: 50%
+[11:26:57] [Worker-Main-1/INFO]: Preparing spawn area: 53%
+[11:26:58] [Worker-Main-4/INFO]: Preparing spawn area: 53%
+[11:26:58] [Worker-Main-5/INFO]: Preparing spawn area: 65%
+[11:26:59] [Worker-Main-5/INFO]: Preparing spawn area: 72%
+[11:26:59] [Worker-Main-3/INFO]: Preparing spawn area: 80%
+[11:27:00] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[11:27:00] [Worker-Main-5/INFO]: Preparing spawn area: 88%
+[11:27:01] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[11:27:01] [Worker-Main-5/INFO]: Preparing spawn area: 99%
+[11:27:01] [Server thread/INFO]: Time elapsed: 28152 ms
+[11:27:01] [Server thread/INFO]: Done (28.322s)! For help, type "help"
+[11:57:10] [Server thread/INFO]: Lynonmic[/113.170.43.208:56489] logged in with entity id 214 at (-14.300000011920929, 52.0, 12.012499988079071)
+[11:57:10] [Server thread/INFO]: Lynonmic joined the game
+[12:20:51] [Server thread/INFO]: <Lynonmic> t
+[12:27:10] [Server thread/INFO]: <Lynonmic> 5
+[12:47:21] [Server thread/INFO]: <Lynonmic> t
+[13:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
+[14:13:34] [Server thread/INFO]: Lynonmic lost connection: Timed out
+[14:13:34] [Server thread/INFO]: Lynonmic left the game
+[15:41:40] [Server thread/INFO]: Lynonmic[/14.242.10.3:55472] logged in with entity id 34732 at (-687.5443671122661, 96.0, 1145.5017981820895)
+[15:41:40] [Server thread/INFO]: Lynonmic joined the game
+[15:45:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-604, y=173, z=1392} gt{x=-604, y=171, z=1392}
+[16:30:42] [Server thread/INFO]: Lynonmic lost connection: Disconnected
+[16:30:42] [Server thread/INFO]: Lynonmic left the game
+[20:10:43] [Server thread/INFO]: ace[/127.0.0.1:50395] logged in with entity id 51551 at (-14.949637909248839, 52.0, 11.81816336635234)
+[20:10:44] [Server thread/INFO]: ace joined the game
+[20:25:54] [Server thread/INFO]: Lynonmic[/14.242.10.3:55837] logged in with entity id 53191 at (-17.5, 57.5625, 8.5)
+[20:25:54] [Server thread/INFO]: Lynonmic joined the game
+[20:26:29] [Server thread/INFO]: <Lynonmic> ko nung meo a
+[20:28:25] [Server thread/INFO]: <Lynonmic> nghe ko
+[20:28:32] [Server thread/INFO]: <ace> khum
+[20:28:34] [Server thread/INFO]: <Lynonmic> vo meet kia
+[20:29:09] [Server thread/INFO]: <Lynonmic> lay cho pe 64 rabit foot ddi
+[20:29:33] [Server thread/INFO]: [ace: Gave 64 [Rabbit's Foot] to Lynonmic]
+[20:33:40] [Server thread/INFO]: <Lynonmic> ko vo meet a
+[20:38:05] [Server thread/INFO]: [ace: Gave 1 [Elytra] to Lynonmic]
+[20:39:29] [Server thread/INFO]: [ace: Gave 1 [Glow Item Frame] to ace]
+[20:39:57] [Server thread/INFO]: [ace: Teleported Lynonmic to ace]
+[20:40:54] [Server thread/INFO]: [ace: Gave 1 [Repeating Command Block] to ace]
+[20:41:01] [Server thread/INFO]: [ace: Gave 1 [Redstone Repeater] to ace]
+[20:45:20] [Server thread/INFO]: [ace: Gave 200 [Glass] to Lynonmic]
+[20:47:05] [Server thread/INFO]: [ace: Gave 1 [Redstone Comparator] to ace]
+[20:59:37] [Server thread/INFO]: <Lynonmic> nghe ko
+[20:59:41] [Server thread/INFO]: <ace> ko
+[20:59:57] [Server thread/INFO]: <Lynonmic> them 200 kinh
+[21:00:13] [Server thread/INFO]: [ace: Gave 200 [Glass] to Lynonmic]
+[21:14:10] [Server thread/INFO]: [ace: Gave 200 [Glass] to Lynonmic]
+[21:19:33] [Server thread/INFO]: [ace: Gave 400 [Glass] to Lynonmic]
+[21:28:02] [Server thread/INFO]: <Lynonmic> snow fox'
+[21:28:33] [Server thread/INFO]: [ace: Summoned new Snow Golem]
+[21:31:00] [Server thread/INFO]: <Lynonmic> white arctic snow fox
+[21:31:47] [Server thread/INFO]: <Lynonmic> polar bear
+[21:32:20] [Server thread/INFO]: [ace: Summoned new Polar Bear]
+[21:33:23] [Server thread/INFO]: [ace: Summoned new Polar Bear]
+[21:39:32] [Server thread/INFO]: <Lynonmic> raw cod
+[21:40:08] [Server thread/INFO]: [ace: Gave 64 [Raw Cod] to Lynonmic]
+[21:43:43] [Server thread/INFO]: <Lynonmic> raw salmon
+[21:43:52] [Server thread/INFO]: <Lynonmic> 64 dc hem
+[21:43:53] [Server thread/INFO]: [ace: Gave 1 [Raw Salmon] to Lynonmic]
+[21:43:56] [Server thread/INFO]: [ace: Gave 63 [Raw Salmon] to Lynonmic]
+[22:03:17] [Server thread/INFO]: [ace: Gave 1 [Redstone Comparator] to ace]
+[22:06:11] [Server thread/INFO]: [ace: Gave 1 [Glow Item Frame] to ace]
+[22:08:53] [Server thread/INFO]: [ace: Gave 1 [Block of Redstone] to ace]
+[22:15:58] [Server thread/INFO]: [ace: Gave 1 [Redstone Dust] to ace]
+[22:16:07] [Server thread/INFO]: [ace: Gave 3 [Redstone Dust] to ace]
+[22:17:49] [Server thread/INFO]: [ace: Summoned new Panda]
+[22:17:55] [Server thread/INFO]: [ace: Summoned new Panda]
+[22:21:39] [Server thread/INFO]: [ace: Teleported ace to Lynonmic]
+[22:21:39] [Server thread/WARN]: ace moved too quickly! -25.089555555927173,6.9375,27.152920324840803
+[22:22:05] [Server thread/INFO]: [ace: Gave 1 [Spectral Arrow] to ace]
+[22:22:09] [Server thread/INFO]: [ace: Gave 63 [Spectral Arrow] to ace]
+[22:23:49] [Server thread/INFO]: Lynonmic lost connection: Disconnected
+[22:23:49] [Server thread/INFO]: Lynonmic left the game
+[22:31:48] [Server thread/INFO]: ace lost connection: Disconnected
+[22:31:48] [Server thread/INFO]: ace left the game
